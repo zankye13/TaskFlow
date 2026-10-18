@@ -1,6 +1,6 @@
 # Taskflow - Game Development Project Tracker API
 
-Taskflow, oyun geliştirme projelerinde (Unity 2D/3D vb.) yer alan iş paketlerini, modülleri ve görev dağılımlarını katmanlı mimari (Layered MVC-like) ilkelerine uygun şekilde yönetmek amacıyla geliştirilmiş, modüler ve yüksek performanslı bir **RESTful Backend API** servisidir.
+Taskflow, bir oyun geliştirme projesinde yer alan iş paketlerini, modülleri ve görev dağılımlarını katmanlı mimari ilkelerine uygun şekilde yönetmek amacıyla geliştirilmiş modüler ve yüksek performanslı bir **RESTful Backend API** servisidir.
 
 ---
 
